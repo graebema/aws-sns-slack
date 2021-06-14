@@ -1,0 +1,4 @@
+iam_account_id = "_your_aws_account_id_"
+slack_url = "https://hooks.slack.com/services/xxxxxxxxxxx_your_hook_token_xxxxxx"
+slack_channel = "#mychannel"
+slack_user = "user1"
