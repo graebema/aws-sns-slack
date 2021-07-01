@@ -32,6 +32,6 @@ module "ec2" {
   cw_sns_topic_arn       = aws_sns_topic.cw_topic.arn
 }
 
-resource "aws_cloudwatch_log_group" "cartago_cw_loggroup" {
+resource "aws_cloudwatch_log_group" "cw_loggroup" {
   name = "/aws/ec2-ubuntu/syslog"
 }
