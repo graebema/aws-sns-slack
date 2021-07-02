@@ -1,5 +1,5 @@
 # aws-sns-slack
-This is the code for a [tutorial on Medium](https://martingraeber.medium.com/xxxxxx) I recently published.
+This is the code for a [tutorial on Medium](https://martingraeber.medium.com/aws-cloudwatch-alarms-in-slack-f2691176d1cf) I recently published.
 
 
 
